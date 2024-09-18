@@ -1,0 +1,7 @@
+Biopython==1.83
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+openpyxl
